@@ -1,0 +1,6 @@
+dao\PublisherDAO.class
+entity\Publisher.class
+app\BookInformation.class
+dao\BookDAO.class
+dao\DAO.class
+entity\Book.class
